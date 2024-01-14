@@ -1,3 +1,5 @@
+Master's Project
+
 Video Game Rental Management System
 Program Description:
 The Video Game Rental Management System is a Python-based application implemented within Jupyter notebooks. Developed by Kypros (ID:328778) in November 2023, 
